@@ -1,0 +1,36 @@
+Final Project Flutter
+Membuat aplikasi flutter untuk menyelesaikan bootcamp flutter di sanbercode dengan fungsi untuk menampilkan berita
+Web GiftShipo.id
+Membuat web untuk menampilkan produk dan keterangan dari toko giftshipo serta untuk mengontak penjual untuk melakukan pemesanan
+Poster PMK Agape
+Membuat poster komunikatif untuk perayaan ibadah paskah pada organisasi PMK Agape dengan tema yang menarik
+
+Belajar Membuat Aplikasi Flutter untuk Pemula
+Belajar bagaimana membuat aplikasi flutter untuk pemula mengenai widget, tema, text serta membuat final project aplikasi sederhana dengan framework Flutter.
+
+Mastered in Bootcamp Flutter Sanbercode
+Belajar bagaimana membuat aplikasi flutter dengan menerapkan widget, getx navigation, authentication firebase serta membuat desain awal aplikasi menggunakan figma.
+
+Belajar Membuat Aplikasi Android untuk Pemula
+Belajar bagaimana membuat aplikasi android untuk pemula mengenai card, tema, navigasi, text serta membuat final project aplikasi sederhana dengan framework Flutter.
+
+Peserta Lomba Gemastik
+Mengikuti lomba gemastik pada bidang programming dan menyelesaikan studi kasus tingkat menengah dengan cepat pada suatu program dengan bahasa pemrograman tertentu untuk mendapatkan sertifikat
+
+Memulai Pemrograman dengan Kotlin
+Belajar mengenai bahasa pemrograman kotlin dari dasar, type data, OOP dan menyelesaikan project dengan mengerjakan soal dalam bentuk program agar program dapat berjalan dengan baik dan sesuai dengan perintah yang diminta.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
